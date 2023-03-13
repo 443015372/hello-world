@@ -1,6 +1,6 @@
 <?php
 
-namespace Jose\Hello\Lib;
+namespace Jose\Hello;
 
 class Test
 {
